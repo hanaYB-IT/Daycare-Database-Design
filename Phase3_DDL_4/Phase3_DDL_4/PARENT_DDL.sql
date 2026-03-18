@@ -1,0 +1,8 @@
+CREATE TABLE PARENT (
+    P_id NUMBER PRIMARY KEY,
+    F_name VARCHAR2(50),
+    L_name VARCHAR2(50),
+    Email VARCHAR2(100),
+    Phone VARCHAR2(10),
+    Address VARCHAR2(100)
+);
